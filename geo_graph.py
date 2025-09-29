@@ -1,6 +1,6 @@
 import geopandas as gpd
 import networkx as nx
-import graficar_grafo as gg
+import grafo as gg
 
 def create_graph(file_path):
     
@@ -35,6 +35,5 @@ def create_graph(file_path):
             prev_id, prev_coords = id_Estacion, coords
     
     print(f"Grafo construido con {G.number_of_nodes()} estaciones y {G.number_of_edges()} conexiones.")
-#    gg.graficar(G, gdf)
     
     return G
