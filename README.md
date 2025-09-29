@@ -5,6 +5,10 @@ Actividad 2 curso Inteligencia Artificial - Corporación Universitaria Iberoamer
 
 El objetivo de este modelo es brindar al usuario una herramienta que le permita seleccionar una estacion de origen y una de destino, y el modelo retornara la ruta mas eficiente para llegar. El modelo esta construido a partir de los datos abiertos del Metro de Medellin, que pueden ser encontrados en el siguiente enlace: https://datosabiertos-metrodemedellin.opendata.arcgis.com/datasets/92c600b0049e43749ef50e4fc0b0064f_1/explore?location=6.231537%2C-75.605779%2C15.59
 
+# Video Demostracion del Modelo
+
+El video de demostracion del modelo se puede encontrar en este enlace: 
+
 # Instrucciones para Utilizar el modelo
 
 Para ejecutar el modelo se deben tener instaladas todas las dependencias, a continuacion se detallan las librerias y los comandos pip para instalarlas:
